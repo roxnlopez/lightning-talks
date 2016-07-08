@@ -16,21 +16,23 @@ Here are some suggestions or add your own!
 **Languages**
 
 - [ ] ES6
-- [ ] Python
+- [x] Python (Camila)
 - [ ] Clojure
 - [ ] Go
-- [ ] Swift
+- [x] Swift (Min)
 - [ ] C++
-- [ ] Scala
-- [ ] Elixir
-- [ ] Java
+- [x] Scala (Val)
+- [x] Elixir (Ben)
+- [x] Java (Mike)
+- [x] PHP (Wayne) 
 
 **Client-side Frameworks**
 
-- [ ] Ionic
+- [x] Ionic (Anthony)
 - [ ] Meteor
-- [ ] Ember
+- [x] Ember (Kate)
 - [ ] Backbone
+- [x] React Native (Matt L)
 
 **Server-side Frameworks**
 
@@ -39,25 +41,26 @@ Here are some suggestions or add your own!
 
 **UI Elements and Tools**
 
-- [ ] Canvas API
+- [x] Canvas API (Sam)
 - [ ] WebRTC
 - [ ] Phaser
 - [ ] Three.js
-- [ ] A-Frame
-- [ ] D3.js
+- [x] A-Frame (Matt S)
+- [x] D3.js (Emilio)
 - [ ] Polymer / Web components
 - [ ] Processing (P5.js)
 
 **Data Storage**
 
 - [ ] Redis
-- [ ] Amazon S3
+- [x] Amazon S3 (Michael)
 - [ ] CouchDB
 - [ ] RethinkDB
 
 **Workflow Tools**
 
 - [ ] Docker
+- [x] Amazon EC2 (Vanessa)
 
 **Templating**
 
@@ -68,8 +71,8 @@ Here are some suggestions or add your own!
 
 - [ ] X-Code
 - [ ] PGP
-- [ ] Torrents
+- [ ] BitTorrent
 - [ ] Distributed Applications
-- [ ] Microcontrollers
-- [ ] Internet of Things
+- [ ] Microcontrollers / Internet of Things
+- [x] Machine Learning (Jen)
 - [ ] etc... (suggest a topic of your own & have it approved)

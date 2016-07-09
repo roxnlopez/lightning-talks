@@ -32,6 +32,7 @@ Here are some suggestions or add your own!
 - [ ] Meteor
 - [x] Ember (Kate)
 - [ ] Backbone
+- [ ] Elm
 - [x] React Native (Matt L)
 
 **Server-side Frameworks**

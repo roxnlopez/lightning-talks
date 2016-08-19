@@ -1,17 +1,17 @@
 #Lightning Talks
 
-Generally, when learning a new technology, it is important to maximize usefulness while minimizing difficulty. Consider making a sorted "hit-list" with these two factors in mind.
-
 Your goal is to create a 10-minute presentation on a topic that is useful to your fellow developers. Please create a brief readme on Github outlining your findings during your research. It should address the following:
 
 - What problem does this technology solve?
 - How do you use it? Is there a "cheatsheet" you found or made that others can reference?
 - What did you build with this technology? (demo)
 
+Generally, when learning a new technology, it is important to maximize usefulness while minimizing difficulty. Consider making a sorted "hit-list" with these two factors in mind.
+
 >It is advised to pick something that will be relevant to project 4 if you have a clear idea of something you want to build that is out of the scope of material we learned.
 
 ##Topics:
-Here are some suggestions or add your own!
+Here are some suggestions...or you can add your own!
 
 **Languages**
 

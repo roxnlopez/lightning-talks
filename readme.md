@@ -1,12 +1,12 @@
 #Lightning Talks
 
-Generally, when learning a new technology, it is important to maximize usefulness will minimizing difficulty. Consider making a sorted "hit-list" with these to factors in mind.
+Generally, when learning a new technology, it is important to maximize usefulness while minimizing difficulty. Consider making a sorted "hit-list" with these two factors in mind.
 
-Your goal is to create a 10 minute presentation on a topic that is useful to your fellow developers. Please create a brief readme on Github outlining your findings during your research. It should address the following:
+Your goal is to create a 10-minute presentation on a topic that is useful to your fellow developers. Please create a brief readme on Github outlining your findings during your research. It should address the following:
 
 - What problem does this technology solve?
 - How do you use it? Is there a "cheatsheet" you found or made that others can reference?
-- What did you build? (demo)
+- What did you build with this technology? (demo)
 
 >It is advised to pick something that will be relevant to project 4 if you have a clear idea of something you want to build that is out of the scope of material we learned.
 
@@ -16,24 +16,24 @@ Here are some suggestions or add your own!
 **Languages**
 
 - [ ] ES6
-- [x] Python (Camila)
+- [ ] Python
 - [ ] Clojure
 - [ ] Go
-- [x] Swift (Min)
+- [ ] Swift
 - [ ] C++
-- [x] Scala (Val)
-- [x] Elixir (Ben)
-- [x] Java (Mike)
-- [x] PHP (Wayne) 
+- [ ] Scala
+- [ ] Elixir
+- [ ] Java
+- [ ] PHP
 
 **Client-side Frameworks**
 
-- [x] Ionic (Anthony)
+- [ ] Ionic
 - [ ] Meteor
-- [x] Ember (Kate)
+- [ ] Ember
 - [ ] Backbone
 - [ ] Elm
-- [x] React Native (Matt L)
+- [ ] React Native
 
 **Server-side Frameworks**
 
@@ -42,26 +42,26 @@ Here are some suggestions or add your own!
 
 **UI Elements and Tools**
 
-- [x] Canvas API (Sam)
+- [ ] Canvas API
 - [ ] WebRTC
 - [ ] Phaser
 - [ ] Three.js
-- [x] A-Frame (Matt S)
-- [x] D3.js (Emilio)
+- [ ] A-Frame
+- [ ] D3.js
 - [ ] Polymer / Web components
-- [ ] Processing (P5.js)
+- [ ] Processing
 
 **Data Storage**
 
 - [ ] Redis
-- [x] Amazon S3 (Michael)
+- [ ] Amazon S3
 - [ ] CouchDB
 - [ ] RethinkDB
 
 **Workflow Tools**
 
 - [ ] Docker
-- [x] Amazon EC2 (Vanessa)
+- [ ] Amazon EC2
 
 **Templating**
 
@@ -75,5 +75,5 @@ Here are some suggestions or add your own!
 - [ ] BitTorrent
 - [ ] Distributed Applications
 - [ ] Microcontrollers / Internet of Things
-- [x] Machine Learning (Jen)
+- [ ] Machine Learning
 - [ ] etc... (suggest a topic of your own & have it approved)

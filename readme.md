@@ -25,6 +25,7 @@ Here are some suggestions...or you can add your own!
 - [ ] Elixir
 - [ ] Java
 - [ ] PHP
+- [ ] Coffeescript
 
 **Client-side Frameworks**
 

@@ -15,10 +15,10 @@ Here are some suggestions...or you can add your own!
 
 **Languages**
 
-- [ ] ES6
+- [x] ES6 (Jamie)
 - [ ] Python
 - [ ] Clojure
-- [ ] Go
+- [x] Go (Matt)
 - [ ] Swift
 - [ ] C++
 - [ ] Scala
@@ -26,6 +26,7 @@ Here are some suggestions...or you can add your own!
 - [ ] Java
 - [ ] PHP
 - [ ] Coffeescript
+- [x] CSS Advanced Topics...Animations? (Abe)
 
 **Client-side Frameworks**
 
@@ -41,6 +42,10 @@ Here are some suggestions...or you can add your own!
 - [ ] Hapi.js
 - [ ] Phoenix
 
+**IoT Frameworks**
+
+- [x] Artoo.io (Luis)
+
 **UI Elements and Tools**
 
 - [ ] Canvas API
@@ -49,25 +54,29 @@ Here are some suggestions...or you can add your own!
 - [ ] Three.js
 - [ ] A-Frame
 - [ ] D3.js
+- [x] chart.js (Mark)
 - [ ] Polymer / Web components
 - [ ] Processing
+- [x] three.js (Monica)
+- [x] phaser.io (Greg)
 
 **Data Storage**
 
 - [ ] Redis
-- [ ] Amazon S3
+- [x] Amazon S3 (Nick)
 - [ ] CouchDB
 - [ ] RethinkDB
 
 **Workflow Tools**
 
 - [ ] Docker
-- [ ] Amazon EC2
+- [x] Amazon EC2 (Charlie)
 
 **Templating**
 
-- [ ] HAML
+- [x] HAML (Holly)
 - [ ] Jade
+- [x] eJS
 
 **Other**
 
@@ -78,3 +87,5 @@ Here are some suggestions...or you can add your own!
 - [ ] Microcontrollers / Internet of Things
 - [ ] Machine Learning
 - [ ] etc... (suggest a topic of your own & have it approved)
+- [x] Chat Bots (Kayce)
+- [x] OAuth (Alison)

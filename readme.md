@@ -80,7 +80,7 @@ Here are some suggestions...or you can add your own!
 
 **Other**
 
-- [ ] X-Code
+- [x] X-Code (Maddy)
 - [ ] PGP
 - [ ] BitTorrent
 - [ ] Distributed Applications

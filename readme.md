@@ -76,7 +76,7 @@ Here are some suggestions...or you can add your own!
 
 - [x] HAML (Holly)
 - [ ] Jade
-- [x] eJS
+- [x] eJS (Kyle)
 
 **Other**
 

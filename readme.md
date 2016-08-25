@@ -15,7 +15,7 @@ Here are some suggestions...or you can add your own!
 
 **Languages**
 
-- [x] ES6 (Jamie)
+- [x] [ES6 (Jamie)](https://github.com/jscovern/lightning_talk_es6)
 - [ ] Python
 - [ ] Clojure
 - [x] Go (Matt)
@@ -26,7 +26,7 @@ Here are some suggestions...or you can add your own!
 - [ ] Java
 - [ ] PHP
 - [ ] Coffeescript
-- [x] CSS Advanced Topics...Animations? (Abe)
+- [x] [CSS Advanced Topics (Abe)](https://github.com/CASTELONE/css-Lighting-Talk)
 
 **Client-side Frameworks**
 
@@ -54,7 +54,7 @@ Here are some suggestions...or you can add your own!
 - [ ] Three.js
 - [ ] A-Frame
 - [ ] D3.js
-- [x] chart.js (Mark)
+- [x] [chart.js (Mark)](https://github.com/markjohnson303/Chart.js-Lightning-Talk)
 - [ ] Polymer / Web components
 - [ ] Processing
 - [x] three.js (Monica)
@@ -70,13 +70,13 @@ Here are some suggestions...or you can add your own!
 **Workflow Tools**
 
 - [ ] Docker
-- [x] Amazon EC2 (Charlie)
+- [x] [Amazon EC2 (Charlie)](https://github.com/fishcharlie/AmazonWebServicesEC2)
 
 **Templating**
 
-- [x] HAML (Holly)
+- [x] [HAML (Holly)](https://github.com/thayer11/HAML)
 - [ ] Jade
-- [x] eJS (Kyle)
+- [x] [eJS (Kyle)](https://github.com/hockey2249/lightning-talk-repo)
 
 **Other**
 

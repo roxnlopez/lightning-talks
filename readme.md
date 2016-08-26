@@ -87,5 +87,5 @@ Here are some suggestions...or you can add your own!
 - [ ] Microcontrollers / Internet of Things
 - [ ] Machine Learning
 - [ ] etc... (suggest a topic of your own & have it approved)
-- [x] Chat Bots (Kayce)
+- [x] [Chat Bots (Kayce)](https://github.com/gregbrunk/phaser)
 - [x] [OAuth (Alison)](https://github.com/alisonkenney/lightning-talk)

@@ -80,7 +80,7 @@ Here are some suggestions...or you can add your own!
 
 **Other**
 
-- [x] X-Code (Maddy)
+- [x] [X-Code (Maddy)](https://github.com/madeleinemarie/Xcode-Presentation)
 - [ ] PGP
 - [ ] BitTorrent
 - [ ] Distributed Applications

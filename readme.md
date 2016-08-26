@@ -18,7 +18,7 @@ Here are some suggestions...or you can add your own!
 - [x] [ES6 (Jamie)](https://github.com/jscovern/lightning_talk_es6)
 - [ ] Python
 - [ ] Clojure
-- [x] Go (Matt)
+- [x] [Go (Matt)](https://github.com/mlapehn/lighting-talk)
 - [ ] Swift
 - [ ] C++
 - [ ] Scala
@@ -57,8 +57,8 @@ Here are some suggestions...or you can add your own!
 - [x] [chart.js (Mark)](https://github.com/markjohnson303/Chart.js-Lightning-Talk)
 - [ ] Polymer / Web components
 - [ ] Processing
-- [x] three.js (Monica)
-- [x] phaser.io (Greg)
+- [x] [three.js (Monica)](https://github.com/Indigo253931/threejsDemo)
+- [x] [phaser.io (Greg)](https://github.com/gregbrunk/phaser)
 
 **Data Storage**
 
@@ -87,5 +87,5 @@ Here are some suggestions...or you can add your own!
 - [ ] Microcontrollers / Internet of Things
 - [ ] Machine Learning
 - [ ] etc... (suggest a topic of your own & have it approved)
-- [x] [Chat Bots (Kayce)](https://github.com/gregbrunk/phaser)
+- [x] [Chat Bots (Kayce)](https://github.com/kdanna/chatbots-talk)
 - [x] [OAuth (Alison)](https://github.com/alisonkenney/lightning-talk)

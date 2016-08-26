@@ -63,7 +63,7 @@ Here are some suggestions...or you can add your own!
 **Data Storage**
 
 - [ ] Redis
-- [x] Amazon S3 (Nick)
+- [x] [Amazon S3 (Nick)](https://github.com/nursetta/lightning-talk)
 - [ ] CouchDB
 - [ ] RethinkDB
 

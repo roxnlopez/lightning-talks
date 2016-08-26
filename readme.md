@@ -88,4 +88,4 @@ Here are some suggestions...or you can add your own!
 - [ ] Machine Learning
 - [ ] etc... (suggest a topic of your own & have it approved)
 - [x] Chat Bots (Kayce)
-- [x] OAuth (Alison)
+- [x] [OAuth (Alison)](https://github.com/alisonkenney/lightning-talk)

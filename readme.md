@@ -15,22 +15,20 @@ Here are some suggestions...or you can add your own!
 
 **Languages**
 
-- [x] [ES6 (Jamie)](https://github.com/jscovern/lightning_talk_es6)
+- [ ] ES6 Topic
 - [ ] Python
 - [ ] Clojure
-- [x] [Go (Matt)](https://github.com/mlapehn/lighting-talk)
+- [ ] Go
 - [ ] Swift
 - [ ] C++
 - [ ] Scala
 - [ ] Elixir
 - [ ] Java
-- [ ] PHP
 - [ ] Coffeescript
-- [x] [CSS Advanced Topics (Abe)](https://github.com/CASTELONE/css-Lighting-Talk)
+- [ ] CSS Advanced Topics
 
 **Client-side Frameworks**
 
-- [ ] Ionic
 - [ ] Meteor
 - [ ] Ember
 - [ ] Backbone
@@ -44,7 +42,7 @@ Here are some suggestions...or you can add your own!
 
 **IoT Frameworks**
 
-- [x] [Artoo.io (Luis)](http://crappycode.club/)
+- [ ] Artoo.io
 
 **UI Elements and Tools**
 
@@ -54,38 +52,38 @@ Here are some suggestions...or you can add your own!
 - [ ] Three.js
 - [ ] A-Frame
 - [ ] D3.js
-- [x] [chart.js (Mark)](https://github.com/markjohnson303/Chart.js-Lightning-Talk)
+- [ ] chart.js
 - [ ] Polymer / Web components
 - [ ] Processing
-- [x] [three.js (Monica)](https://github.com/Indigo253931/threejsDemo)
-- [x] [phaser.io (Greg)](https://github.com/gregbrunk/phaser)
+- [ ] three.js
+- [ ] phaser.io
 
 **Data Storage**
 
 - [ ] Redis
-- [x] [Amazon S3 (Nick)](https://github.com/nursetta/lightning-talk)
+- [ ] Amazon S3
 - [ ] CouchDB
 - [ ] RethinkDB
 
 **Workflow Tools**
 
 - [ ] Docker
-- [x] [Amazon EC2 (Charlie)](https://github.com/fishcharlie/AmazonWebServicesEC2)
+- [ ] Amazon EC2
 
 **Templating**
 
-- [x] [HAML (Holly)](https://github.com/thayer11/HAML)
+- [ ] HAML
 - [ ] Jade
-- [x] [eJS (Kyle)](https://github.com/hockey2249/lightning-talk-repo)
+- [ ] Handlebars
 
 **Other**
 
-- [x] [X-Code (Maddy)](https://github.com/madeleinemarie/Xcode-Presentation)
+- [ ] Xcode
 - [ ] PGP
 - [ ] BitTorrent
 - [ ] Distributed Applications
 - [ ] Microcontrollers / Internet of Things
 - [ ] Machine Learning
+- [ ] Chat Bots
+- [ ] OAuth
 - [ ] etc... (suggest a topic of your own & have it approved)
-- [x] [Chat Bots (Kayce)](https://github.com/kdanna/chatbots-talk)
-- [x] [OAuth (Alison)](https://github.com/alisonkenney/lightning-talk)

@@ -1,4 +1,4 @@
-#Lightning Talks
+# Lightning Talks
 
 Your goal is to create a 10-minute presentation on a topic that is useful to your fellow developers. Please create a brief readme on Github outlining your findings during your research. It should address the following:
 
@@ -10,15 +10,15 @@ Generally, when learning a new technology, it is important to maximize usefulnes
 
 >It is advised to pick something that will be relevant to project 4 if you have a clear idea of something you want to build that is out of the scope of material we learned.
 
-##Topics:
+## Topics:
 Here are some suggestions...or you can add your own!
 
 **Languages**
 
 - [ ] ES6 Topic
-- [ ] Python
+- [x] Python - Micah
 - [ ] Clojure
-- [ ] Go
+- [x] Go - Gisella
 - [ ] Swift
 - [ ] C++
 - [ ] Scala
@@ -26,6 +26,7 @@ Here are some suggestions...or you can add your own!
 - [ ] Java
 - [ ] Coffeescript
 - [ ] CSS Advanced Topics
+- [x] Sass - Larry
 
 **Client-side Frameworks**
 
@@ -46,7 +47,7 @@ Here are some suggestions...or you can add your own!
 
 **UI Elements and Tools**
 
-- [ ] Canvas API
+- [x] Canvas API - Kevin
 - [ ] WebRTC
 - [ ] Phaser
 - [ ] Three.js
@@ -80,10 +81,11 @@ Here are some suggestions...or you can add your own!
 
 - [ ] Xcode
 - [ ] PGP
-- [ ] BitTorrent
+- [x] BitTorrent - Guy
 - [ ] Distributed Applications
 - [ ] Microcontrollers / Internet of Things
-- [ ] Machine Learning
+- [x] Machine Learning - Clay
 - [ ] Chat Bots
 - [ ] OAuth
+- [x] Oracle SQL Developer - Merry
 - [ ] etc... (suggest a topic of your own & have it approved)

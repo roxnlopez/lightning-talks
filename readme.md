@@ -19,7 +19,7 @@ Here are some suggestions...or you can add your own!
 - [x] Python - Micah
 - [ ] Clojure
 - [x] Go - Gisella
-- [ ] Swift
+- [x] Swift - Nate
 - [ ] C++
 - [ ] Scala
 - [ ] Elixir
@@ -31,7 +31,7 @@ Here are some suggestions...or you can add your own!
 **Client-side Frameworks**
 
 - [ ] Meteor
-- [ ] Ember
+- [x] Ember - Brian?
 - [ ] Backbone
 - [ ] Elm
 - [ ] React Native
@@ -53,7 +53,7 @@ Here are some suggestions...or you can add your own!
 - [ ] Three.js
 - [ ] A-Frame
 - [ ] D3.js
-- [ ] chart.js
+- [x] chart.js - Brian?
 - [ ] Polymer / Web components
 - [ ] Processing
 - [ ] three.js

@@ -26,7 +26,7 @@ Here are some suggestions...or you can add your own!
 - [ ] Java
 - [ ] Coffeescript
 - [ ] CSS Advanced Topics
-- [x] [Sass - Larry](https://github.com/larrykraus/lightning-talk) - 4
+- [x] [Sass - Larry](https://github.com/larrykraus/lightning-talk) - 5
 
 **Client-side Frameworks**
 

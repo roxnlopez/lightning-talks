@@ -18,7 +18,7 @@ Here are some suggestions...or you can add your own!
 - [ ] ES6 Topic
 - [x] Python - Micah
 - [ ] Clojure
-- [x] Go - Gisella
+- [ ] Go
 - [x] Swift - Nate
 - [ ] C++
 - [ ] Scala
@@ -88,4 +88,5 @@ Here are some suggestions...or you can add your own!
 - [ ] Chat Bots
 - [ ] OAuth
 - [x] Oracle SQL Developer - Merry
+- [x] Chrome Extensions - Gisella
 - [ ] etc... (suggest a topic of your own & have it approved)

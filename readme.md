@@ -16,17 +16,17 @@ Here are some suggestions...or you can add your own!
 **Languages**
 
 - [ ] ES6 Topic
-- [x] Python - Micah
+- [x] [Python - Micah](https://github.com/micahwierenga/python-practice) - 2
 - [ ] Clojure
 - [ ] Go
-- [x] Swift - Nate
-- [ ] C++
+- [x] Swift - Nate - Computer Issues
+- [x] [C++](https://github.com/merryschurr/lightning-talk.git) - [Merry](https://docs.google.com/presentation/d/1orECk51G7j1mYZsm1X4P8glMVos2tnQe-MPAy9CvFt4/edit?usp=sharing) - 8
 - [ ] Scala
 - [ ] Elixir
 - [ ] Java
 - [ ] Coffeescript
 - [ ] CSS Advanced Topics
-- [x] Sass - Larry
+- [x] [Sass - Larry](https://github.com/larrykraus/lightning-talk) - 4
 
 **Client-side Frameworks**
 
@@ -47,7 +47,7 @@ Here are some suggestions...or you can add your own!
 
 **UI Elements and Tools**
 
-- [x] Canvas API - Kevin
+- [x] [Canvas API - Kevin](https://github.com/kevinbloomquist/Canvas-Lightningtalk) - 3
 - [ ] WebRTC
 - [ ] Phaser
 - [ ] Three.js
@@ -81,12 +81,12 @@ Here are some suggestions...or you can add your own!
 
 - [ ] Xcode
 - [ ] PGP
-- [x] BitTorrent - Guy
+- [x] [BitTorrent - Guy](https://github.com/gliechty/bitTorrent) - 1
 - [ ] Distributed Applications
 - [ ] Microcontrollers / Internet of Things
-- [x] Machine Learning - Clay
+- [x] [Machine Learning - Clay](https://github.com/git-clay/Machine_Learning_101/blob/master/README.md) - 7
 - [ ] Chat Bots
-- [x] OAuth - Brian
-- [x] Oracle SQL Developer - Merry
-- [x] Chrome Extensions - Gisella
+- [x] [OAuth - Brian](https://github.com/briandridge/oauth) - 4
+- [ ] Oracle SQL Developer
+- [x] [Chrome Extensions - Gisella](https://github.com/GisellaBella/lightening-taks-chrome-extension/tree/master) - 6
 - [ ] etc... (suggest a topic of your own & have it approved)

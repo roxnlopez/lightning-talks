@@ -31,7 +31,7 @@ Here are some suggestions...or you can add your own!
 **Client-side Frameworks**
 
 - [ ] Meteor
-- [x] Ember - Brian?
+- [ ] Ember
 - [ ] Backbone
 - [ ] Elm
 - [ ] React Native
@@ -53,7 +53,7 @@ Here are some suggestions...or you can add your own!
 - [ ] Three.js
 - [ ] A-Frame
 - [ ] D3.js
-- [x] chart.js - Brian?
+- [ ] chart.js
 - [ ] Polymer / Web components
 - [ ] Processing
 - [ ] three.js
@@ -86,7 +86,7 @@ Here are some suggestions...or you can add your own!
 - [ ] Microcontrollers / Internet of Things
 - [x] Machine Learning - Clay
 - [ ] Chat Bots
-- [ ] OAuth
+- [x] OAuth - Brian
 - [x] Oracle SQL Developer - Merry
 - [x] Chrome Extensions - Gisella
 - [ ] etc... (suggest a topic of your own & have it approved)

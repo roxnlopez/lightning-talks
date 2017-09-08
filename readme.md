@@ -16,17 +16,18 @@ Here are some suggestions...or you can add your own!
 **Languages**
 
 - [ ] ES6 Topic
-- [x] [Python - Micah](https://github.com/micahwierenga/python-practice) - 2
+- [ ] Python
 - [ ] Clojure
-- [ ] Go
-- [x] Swift - Nate - Computer Issues
-- [x] [C++](https://github.com/merryschurr/lightning-talk.git) - [Merry](https://docs.google.com/presentation/d/1orECk51G7j1mYZsm1X4P8glMVos2tnQe-MPAy9CvFt4/edit?usp=sharing) - 8
+- [x] [Go - Corey](#) - 8
+- [ ] Swift
+- [ ] C++
 - [ ] Scala
 - [ ] Elixir
 - [ ] Java
 - [ ] Coffeescript
 - [ ] CSS Advanced Topics
-- [x] [Sass - Larry](https://github.com/larrykraus/lightning-talk) - 5
+- [ ] Sass
+- [x] [Ruby on Rails - Sam](#) - 1
 
 **Client-side Frameworks**
 
@@ -34,12 +35,13 @@ Here are some suggestions...or you can add your own!
 - [ ] Ember
 - [ ] Backbone
 - [ ] Elm
-- [ ] React Native
+- [x] [React Native - David](#) - 2
 
 **Server-side Frameworks**
 
 - [ ] Hapi.js
 - [ ] Phoenix
+- [x] [Laravel - Chase](#) - 4
 
 **IoT Frameworks**
 
@@ -47,9 +49,8 @@ Here are some suggestions...or you can add your own!
 
 **UI Elements and Tools**
 
-- [x] [Canvas API - Kevin](https://github.com/kevinbloomquist/Canvas-Lightningtalk) - 3
+- [ ] Canvas API
 - [ ] WebRTC
-- [ ] Phaser
 - [ ] Three.js
 - [ ] A-Frame
 - [ ] D3.js
@@ -57,7 +58,7 @@ Here are some suggestions...or you can add your own!
 - [ ] Polymer / Web components
 - [ ] Processing
 - [ ] three.js
-- [ ] phaser.io
+- [x] [phaser.io - Tyler](#) - 3
 
 **Data Storage**
 
@@ -68,7 +69,7 @@ Here are some suggestions...or you can add your own!
 
 **Workflow Tools**
 
-- [ ] Docker
+- [x] [Docker - Connie](#) - 5
 - [ ] Amazon EC2
 
 **Templating**
@@ -81,12 +82,14 @@ Here are some suggestions...or you can add your own!
 
 - [ ] Xcode
 - [ ] PGP
-- [x] [BitTorrent - Guy](https://github.com/gliechty/bitTorrent) - 1
+- [ ] BitTorrent
 - [ ] Distributed Applications
 - [ ] Microcontrollers / Internet of Things
-- [x] [Machine Learning - Clay](https://github.com/git-clay/Machine_Learning_101/blob/master/README.md) - 7
+- [ ] Machine Learning
 - [ ] Chat Bots
-- [x] [OAuth - Brian](https://github.com/briandridge/oauth) - 4
+- [ ] OAuth
 - [ ] Oracle SQL Developer
-- [x] [Chrome Extensions - Gisella](https://github.com/GisellaBella/lightening-taks-chrome-extension/tree/master) - 6
+- [ ] Chrome Extensions
+- [x] [Blockchain - Rett](#) - 6
+- [x] [hood.ie - Alex](#) - 7
 - [ ] etc... (suggest a topic of your own & have it approved)

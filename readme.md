@@ -1,6 +1,6 @@
 # Lightning Talks
 
-Your goal is to create a 10-minute presentation on a topic that is useful to your fellow developers. Please create a brief readme on Github outlining your findings during your research. It should address the following:
+Your goal is to create a 5-minute presentation on a topic that is useful to your fellow developers. Please create a brief readme on Github outlining your findings during your research. It should address the following:
 
 - What problem does this technology solve?
 - How do you use it? Is there a "cheatsheet" you found or made that others can reference?

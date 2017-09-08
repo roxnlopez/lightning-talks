@@ -16,7 +16,7 @@ Here are some suggestions...or you can add your own!
 **Languages**
 
 - [ ] ES6 Topic
-- [ ] Python
+- [x] [Python - Hung](#) - 15
 - [ ] Clojure
 - [x] [Go - Corey](#) - 8
 - [ ] Swift
@@ -45,6 +45,7 @@ Here are some suggestions...or you can add your own!
 
 **IoT Frameworks**
 
+- [x] [IoT - Marshall](#) - 13
 - [ ] Artoo.io
 
 **UI Elements and Tools**
@@ -59,6 +60,7 @@ Here are some suggestions...or you can add your own!
 - [ ] Processing
 - [ ] three.js
 - [x] [phaser.io - Tyler](#) - 3
+- [x] [CSS Grid - Jeff](#) - 9
 
 **Data Storage**
 
@@ -66,6 +68,7 @@ Here are some suggestions...or you can add your own!
 - [ ] Amazon S3
 - [ ] CouchDB
 - [ ] RethinkDB
+- [x] [Firebase - Lauren](#) - 10
 
 **Workflow Tools**
 
@@ -74,7 +77,7 @@ Here are some suggestions...or you can add your own!
 
 **Templating**
 
-- [ ] HAML
+- [x] [HAML - Zach](#) - 11
 - [ ] Jade
 - [ ] Handlebars
 
@@ -92,4 +95,8 @@ Here are some suggestions...or you can add your own!
 - [ ] Chrome Extensions
 - [x] [Blockchain - Rett](#) - 6
 - [x] [hood.ie - Alex](#) - 7
+- [x] [threes.js - Mark](#) - 12
+- [x] [TBD - Roxann](#) - 14
+- [x] [TBD - Jeremy](#) - 16
+- [x] [TBD - Ian](#) - 17
 - [ ] etc... (suggest a topic of your own & have it approved)

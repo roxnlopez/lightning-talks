@@ -1,102 +1,15 @@
-# Lightning Talks
+A-FRAME
 
-Your goal is to create a 5-minute presentation on a topic that is useful to your fellow developers. Please create a brief readme on Github outlining your findings during your research. It should address the following:
+A-Frame was developed to be an easy but powerfule way to develop VR content. It is based on top of HTML, so it's easy to get started. It is an open source framework that is primarily maintained by Mozilla. It has an enitty component framework, Three.js. <br>
+It has compatability with most libraries and frameworks. Since it is based on HTML, it is accessible to everyone. Works on desktop and smartphones. It uses the DOM but its elements don't touch the browser layout. Updates are all done in memory under <i>requestAnimationFrame</i> call.
+<br>
 
-- What problem does this technology solve?
-- How do you use it? Is there a "cheatsheet" you found or made that others can reference?
+A-frame is mostly HTML and Javascript. Simply just enter a script tag in HTML and npm install aframe. <br>
+<a href="https://aframe.io/" /> was beyond helpful in gettng started and understanding it.
+
 - What did you build with this technology? (demo)
+	I built a very simple example with basic shapes.
+
 
 Generally, when learning a new technology, it is important to maximize usefulness while minimizing difficulty. Consider making a sorted "hit-list" with these two factors in mind.
 
->It is advised to pick something that will be relevant to project 4 if you have a clear idea of something you want to build that is out of the scope of material we learned.
-
-## Topics:
-Here are some suggestions...or you can add your own!
-
-**Languages**
-
-- [ ] ES6 Topic
-- [x] [Python - Hung](#) - 15
-- [ ] Clojure
-- [x] [Go - Corey](#) - 8
-- [ ] Swift
-- [ ] C++
-- [ ] Scala
-- [ ] Elixir
-- [ ] Java
-- [ ] Coffeescript
-- [ ] CSS Advanced Topics
-- [ ] Sass
-- [x] [Ruby on Rails - Sam](#) - 1
-
-**Client-side Frameworks**
-
-- [ ] Meteor
-- [ ] Ember
-- [ ] Backbone
-- [ ] Elm
-- [x] [React Native - David](#) - 2
-
-**Server-side Frameworks**
-
-- [ ] Hapi.js
-- [ ] Phoenix
-- [x] [Laravel - Chase](#) - 4
-
-**IoT Frameworks**
-
-- [x] [IoT - Marshall](#) - 13
-- [ ] Artoo.io
-
-**UI Elements and Tools**
-
-- [ ] Canvas API
-- [ ] WebRTC
-- [ ] Three.js
-- [ ] A-Frame
-- [ ] D3.js
-- [ ] chart.js
-- [ ] Polymer / Web components
-- [ ] Processing
-- [ ] three.js
-- [x] [phaser.io - Tyler](#) - 3
-- [x] [CSS Grid - Jeff](#) - 9
-
-**Data Storage**
-
-- [ ] Redis
-- [ ] Amazon S3
-- [ ] CouchDB
-- [ ] RethinkDB
-- [x] [Firebase - Lauren](#) - 10
-
-**Workflow Tools**
-
-- [x] [Docker - Connie](#) - 5
-- [ ] Amazon EC2
-
-**Templating**
-
-- [x] [HAML - Zach](#) - 11
-- [ ] Jade
-- [ ] Handlebars
-
-**Other**
-
-- [ ] Xcode
-- [ ] PGP
-- [ ] BitTorrent
-- [ ] Distributed Applications
-- [ ] Microcontrollers / Internet of Things
-- [ ] Machine Learning
-- [ ] Chat Bots
-- [ ] OAuth
-- [ ] Oracle SQL Developer
-- [ ] Chrome Extensions
-- [x] [Blockchain - Rett](#) - 6
-- [x] [hood.ie - Alex](#) - 7
-- [x] [threes.js - Mark](#) - 12
-- [x] [TBD - Roxann](#) - 14
-- [x] [TBD - Jeremy](#) - 16
-- [x] [TBD - Ian](#) - 17
-- [ ] etc... (suggest a topic of your own & have it approved)

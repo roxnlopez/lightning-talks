@@ -7,12 +7,8 @@ A-Frame was built on the notion that it could be compatible with most libraries,
 WebVR is a JavaScript API for creating immersive 3D. This gains access to VR headset sensor data.
 
 A-frame is mostly HTML and Javascript. Simply just enter a script tag in HTML and npm install aframe. <br>
-<a href="https://aframe.io/"></a> was beyond helpful in gettng started and understanding it. <a href="https://github.com/donmccurdy/aframe-physics-system#components"></a> was also what I used to add to my shapes page. <br>
+<a href="https://aframe.io/">A-frame.io</a> was beyond helpful in gettng started and understanding it. <a href="https://github.com/donmccurdy/aframe-physics-system#components">Don McCurdy's Github</a> was also what I used to add to my shapes page. <br>
 This is a framework of three.js with *entity-componenet-system* (ECS) architecture. This architecture is a common pattern in 3D and game development that follows the composition over inheritancea and hierarchy principle. With ECS, you have greater flexibity when defining objects, promotoes a clean design, most scalable way to build VR applications, and it allows for extending new features. The E in ECS are the entitites; which are container objects where componenets can be attached, they are the base of all objects in the scene. C is for components; which are reusable modules or data containers  that can be attached to entities to provide appearance, behavior, and/or functionality. And lastly, S, which are the systems that provide global scope, mgmt, and services for classes of components. Systems are optional.
 
-- What did you build with this technology? (demo)
-	I built a very simple example with basic shapes. A-Frame uses a handful of elements like <a-box> or <a-sphere> called *primitives*.
-
-
-Generally, when learning a new technology, it is important to maximize usefulness while minimizing difficulty. Consider making a sorted "hit-list" with these two factors in mind.
+I built a very simple example with basic shapes. A-Frame uses a handful of elements like "<a-box>" or "<a-sphere>" called *primitives*.
 
